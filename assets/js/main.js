@@ -1,9 +1,7 @@
 /**
-* Template Name: Yummy
-* Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+  * Template Name: nti.resto
+  * Template URL: https://github.com/iddotahotantcha/nti-resto
+  * Author: [N'TCHA TAHOTA Iddo](https://github.com/iddotahotantcha)
 */
 
 (function() {
